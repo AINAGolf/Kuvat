@@ -1,0 +1,2 @@
+# Kuvat
+AINAGolf uutiskirjekuvat
